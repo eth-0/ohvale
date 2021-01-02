@@ -1,0 +1,40 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ohvale",
+    "description": "",
+    "home_page_url": "https://eth-0.github.io/ohvale",
+    "feed_url": "https://eth-0.github.io/ohvale/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ohvale"
+    },
+    "items": [
+        {
+            "id": "https://eth-0.github.io/ohvale/gp-2-190-daytona.html",
+            "url": "https://eth-0.github.io/ohvale/gp-2-190-daytona.html",
+            "title": "GP-2 190 DAYTONA",
+            "summary": "MISURE MASSIME DI INGOMBRO MOTO: - Lunghezza massima 1600 mm - Altezza massima (con vetrino) 930 mm - Larghezza con&hellip;",
+            "content_html": "<div><strong>MISURE MASSIME DI INGOMBRO MOTO:</strong></div>\n<div><br>- Lunghezza massima 1600 mm<br>- Altezza massima (con vetrino) 930 mm<br>- Larghezza con manubri aperti 650 mm<br>- Larghezza con manubri chiusi 390 mm<br><br><br></div>\n<div><strong>CICLISTICA:</strong></div>\n<div>Per Ohvale GP-2 è stata sviluppata una nuova ciclistica dedicata a questo modello.</div>\n<div>Il nuovo telaio è più lungo e ha un angolo di sterzo aumentato di 0.5°.</div>\n<div>E' stata decisa una nuova posizione del motore per ottimizzare il baricentro della moto.</div>\n<div>Per un corretto tiro catena è stato riposizionato il perno forcellone.</div>\n<div>Miglioramento dell'avantreno con montaggio di cuscinetti di sterzo conici per una regolazione più precisa dello sterzo.</div>\n<div>Nuova posizione del fissaggio ammortizzatore sul telaio e forcellone per migliorare la sensibilità alle basse velocità.</div>\n<div>Forcellone allungato di 25mm.</div>\n<div> </div>\n<div><strong>PIASTRE DI STERZO</strong></div>\n<div>E' stato aumentato l'interasse delle piastre di sterzo per permettere lo smontaggio della ruota anteriore senza togliere la pinza freno.</div>\n<div>La piastra superiore ha una nuova estetica e la regolazione manubri integrata stile MotoGP</div>\n<div>Sono stati riprogettati i collari semimanubrio che, attraverso un diverso sistema di fissaggio dei semimanubri, migliorano la robustezza.</div>\n<div> </div>\n<div><strong>FORCELLA ANTERIORE</strong></div>\n<div>Il perno ruota anteriore passa a un diametro 15 per aumentare la rigidità torsionale della forcella.</div>\n<div>Di serie con precarico molla e piedino CNC. Stelo da 33mm</div>\n<div> </div>\n<div><strong>FRENO ANTERIORE : J. JUAN</strong></div>\n<div>Con Ohvale GP-2 inizia la collaborazione di Ohvale con l'azienda spagnola J.Juan , riconosciuta a livello internazionale per la qualità dei suoi prodotti racing.</div>\n<div>Il nuovo impianto freno anteriore di OHVALE GP-2 ha una migliore potenza frenante e una maggiore resistenza ( nessun allungamento della corsa della leva).</div>\n<div>E' composto da:</div>\n<div>- pinza radiale con 4 pistoncini diametro 25mm e dimensioni più grandi per lo smaltimento del calore;</div>\n<div>-disco freno flottante diametro 220mm;</div>\n<div>- nuova pompa con leva regolabile più lunga per una migliore ergonomia.</div>\n<div> </div>\n<div><strong>CERCHI DA 12\"</strong></div>\n<div>OHVALE GP-2 monta cerchi da 12\" fusi in conchiglia, quindi con una tecnologia che permette di ottenere una fusione con tolleranze più precise e caratteristiche meccaniche migliori.</div>\n<div>I cerchi sono equipaggiati di cuscinetti che permettono di montare i distanziali fissi alla ruota.</div>\n<div> </div>\n<div><strong>NUOVA ERGONOMIA</strong></div>\n<div>E' stata rivista la posizione delle pedane e sviluppati nuovi supporti</div>\n<div>Nuova posizione della sella in altezza e lunghezza</div>\n<div>Avanzata la posizione dei semimanubri.</div>\n<div>Questo fa si che sia stata rivista la carenatura nelle sue dimensioni ed estetica.</div>\n<div>Saranno inoltre montate le appendici aerodinamiche di serie.</div>\n<div> </div>\n<div><strong>MOTORE DAYTONA 190 4 SPEED</strong></div>\n<div>OHVALE GP-2 sarà equipaggiata con motore Daytona 190cc - 4 speed.</div>\n<div>E' stata portata avanti questa scelta per facilitare l'ingresso di questa versione nell'attività sportiva esistente a livello nazionale e internazionale.</div>\n<div> </div>\n<div><strong>COLORAZIONI DI SERIE DISPONIBILI</strong></div>\n<div>Bianco/rosso - Nero/giallo</div>\n<div>Possibilità di personalizzazione come di consueto.</div>",
+            "image": "https://eth-0.github.io/ohvale/media/posts/2/GP2_BlackSX-1024x636.png",
+            "author": {
+                "name": "ohvale"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-02T14:10:28+01:00",
+            "date_modified": "2021-01-02T14:10:28+01:00"
+        },
+        {
+            "id": "https://eth-0.github.io/ohvale/intro.html",
+            "url": "https://eth-0.github.io/ohvale/intro.html",
+            "title": "intro",
+            "author": {
+                "name": "ohvale"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-02T14:03:30+01:00",
+            "date_modified": "2021-01-02T14:03:30+01:00"
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://eth-0.github.io/ohvale/sitemap.xml
