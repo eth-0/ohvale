@@ -3,7 +3,7 @@
     <title>ohvale</title>
     <link href="https://eth-0.github.io/ohvale/feed.xml" rel="self" />
     <link href="https://eth-0.github.io/ohvale" />
-    <updated>2021-01-02T14:59:13+01:00</updated>
+    <updated>2021-01-02T15:22:47+01:00</updated>
     <author>
         <name>ohvale</name>
     </author>
@@ -17,18 +17,21 @@
         <link href="https://eth-0.github.io/ohvale/contatti.html"/>
         <id>https://eth-0.github.io/ohvale/contatti.html</id>
 
-        <updated>2021-01-02T14:59:13+01:00</updated>
+        <updated>2021-01-02T15:22:47+01:00</updated>
             <summary>
                 <![CDATA[
-                    TBD
+                     Your email: Subject: Your message: Send
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <form class="js-form form" action="#">
-<div class="row">
-<div class="form-group col-md-6"><strong>TBD</strong></div>
-</div>
+                <form action="https://formspree.io/f/meqppbew" method="POST">
+<p><label> Your email:             <input name="_replyto" type="text"> </label></p>
+<p><label> Subject:                   <input name="_subject" type="text"> </label></p>
+<p> </p>
+<p><label> Your message:     <textarea style="margin: 0px; width: 385px; height: 176px;" name="message"></textarea> </label></p>
+<p> </p>
+<p><!-- your other form fields go here --> <button type="submit">Send</button></p>
 </form>
             ]]>
         </content>
