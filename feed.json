@@ -11,6 +11,34 @@
     },
     "items": [
         {
+            "id": "https://eth-0.github.io/ohvale/contatti.html",
+            "url": "https://eth-0.github.io/ohvale/contatti.html",
+            "title": "Contatti",
+            "summary": "TBD",
+            "content_html": "<form class=\"js-form form\" action=\"#\">\n<div class=\"row\">\n<div class=\"form-group col-md-6\"><strong>TBD</strong></div>\n</div>\n</form>",
+            "author": {
+                "name": "ohvale"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-02T14:58:57+01:00",
+            "date_modified": "2021-01-02T14:59:13+01:00"
+        },
+        {
+            "id": "https://eth-0.github.io/ohvale/azienda.html",
+            "url": "https://eth-0.github.io/ohvale/azienda.html",
+            "title": "AZIENDA",
+            "summary": "OHVALE GP-O nasce da un’idea di Valerio Da Lio, profondo conoscitore ed esperto del settore 2wheels e si propone come&hellip;",
+            "content_html": "<p>OHVALE GP-O nasce da un’idea di Valerio Da Lio, profondo conoscitore ed esperto del settore 2wheels e si propone come un prodotto dal DNA sportivo al 100%, una moto che scatena emozioni, ti fa sognare e ti fa sentire pilota, un mezzo che offra il divertimento di una vera moto, guidando con facilità, osando come solo i piloti professionisti si possono permettere. Questa vera moto, con ergonomia accessibile, facile e giocosa, permette una guida estrema, da vera moto racing, abbattendo però drasticamente i costi e tutte le scomodità connesse alle trasferte in pista. Ohvale GP – O, disponibile in 4 diverse versioni, grazie alle sue doti di ciclistica, ergonomia e facilità di guida, è adatta ad essere propedeutica per i più giovani o meno esperti, per le donne appassionate delle due rute ma soprattutto in grado di regalare adrenalina e bagarre in pista ai motociclisti esperti. I continui demo ride realizzati e l’attività sportiva nei campionati monomarca OHVALE CIV FMI e CNV MOTOASI sono stati la miglior conferma che questo mezzo è in grado di regalare sensazioni e piacere di guida del tutto paragonabili a quelle di una vera moto.</p>",
+            "author": {
+                "name": "ohvale"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-02T14:41:59+01:00",
+            "date_modified": "2021-01-02T14:41:59+01:00"
+        },
+        {
             "id": "https://eth-0.github.io/ohvale/gp-2-190-daytona.html",
             "url": "https://eth-0.github.io/ohvale/gp-2-190-daytona.html",
             "title": "GP-2 190 DAYTONA",
